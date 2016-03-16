@@ -5,6 +5,7 @@ import javax.swing.*;
 
 class Exo2 extends JFrame {
 
+    
     protected JButton rep = new JButton("Repondre");
     protected JButton prec = new JButton("Precedent");
     protected JButton suiv = new JButton("Suivant");
